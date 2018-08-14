@@ -10,10 +10,10 @@ Python based OPC-UA traffic generator relying on the FreeOpcUa implementation of
 http://freeopcua.github.io/, https://github.com/FreeOpcUa/python-opcua
 
 New OPC-UA client and server classes inheriting from the FreeOpcUa implementation with added functionnalities to make for an easier automatic traffic generation.
-The main class *Tragen* allows for the creation of a context of one opc-ua server and multiple clients connected to it, and orchestrates communication between them simulating real physical processes and communication btween Operation Technology devices.
+The main class 'Tragen' allows for the creation of a context of one opc-ua server and multiple clients connected to it, and orchestrates communication between them simulating real physical processes and communication btween Operation Technology devices.
 
 
-**Content:**
+Content:
 
 
 .. toctree::
